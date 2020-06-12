@@ -16,4 +16,4 @@ My credentials include a Master's in Marketing at University Federal of Joao Pes
 
 
 ## Projetos:
-
+Análise do Aibnb em Paris: **https://bit.ly/3cYQ0Rd
